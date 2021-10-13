@@ -190,10 +190,7 @@ section {
   color: #fce138;
   overflow: auto;
 }
-
-.trainer img {
-  width: 35%;
-  float: left;
+width: 60%
 }
 
 .trainer-bio {
