@@ -4,3 +4,19 @@
   text-align: center;
   margin-bottom: 40px;
 }
+
+.page-title {
+  position: relative;
+  color: #fce138;
+  display: inline-block;
+  border-bottom: 4px solid #fce138;
+  padding: 50px 80px 15px 80px;
+  font-weight: normal;
+  font-size: 62px;
+  font-style: italic;
+  bottom: 25px;
+}
+
+
+
+
