@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://msdale.github.io/
 
 ## Contribution
-Made with ❤️ by Mark Dale
+ Mark Dale: msdaledad@gmail.com
