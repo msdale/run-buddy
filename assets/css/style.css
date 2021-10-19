@@ -87,13 +87,13 @@ section {
 
 /* HERO STYLES START */
 .hero {
-  align-items: flex-start;
   background-image: url('../images/hero-bg.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 .hero-cta {
@@ -467,5 +467,4 @@ section {
   .contact-form {
     order: 3;
   }
-  
 }
